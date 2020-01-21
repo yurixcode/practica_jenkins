@@ -1,1 +1,1 @@
-print('Probando ramas en GitHub con Jenkins #3')
+print Provocando fallo para la recepción de correos electrónicos en caso de error
